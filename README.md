@@ -46,7 +46,7 @@
     <!-- <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,d3,redux,styledcomponents" /><br>
     <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" /> -->
-    <img src="https://skillicons.dev/icons?i=python,github,java,net,sqlite,mysql,sqlserver" /><br>
+    <img src="https://skillicons.dev/icons?i=python,github,java,net,sqlite,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,django,flask,fastapi,html,css" /> 
 </div>
 <br>
