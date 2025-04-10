@@ -1,7 +1,7 @@
 <!--[My Projects](#end-box) -->
 
 <div align="end">
-  <a href="#end-box"> <h3>My Projects</h3>
+  <a href="#end-box"> <h3>My Projects</h3> </a>
 </div>
 
 <div align="center">
